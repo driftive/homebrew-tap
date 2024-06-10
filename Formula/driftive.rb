@@ -5,7 +5,7 @@ class Driftive < Formula
   sha256 "961c892491f35b453ad596c7324ebe2d646797a75ff6b66c2aefa6ca439e8050"
   license "MIT"
   head "https://github.com/driftive/driftive.git", branch: "main"
-ˇ
+  
   depends_on "go" => :build
 
   def install
