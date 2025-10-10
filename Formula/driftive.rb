@@ -1,8 +1,8 @@
 class Driftive < Formula
   desc "Driftive detects state drifts in Terragrunt projects"
   homepage "https://github.com/driftive/driftive"
-  url "https://github.com/driftive/driftive/archive/refs/tags/v0.17.0.tar.gz"
-  sha256 "688989c9deff79af2dd02f662de993a799ff186e642159ff4bc00ca7dfd1de82"
+  url "https://github.com/driftive/driftive/archive/refs/tags/v0.19.0.tar.gz"
+  sha256 "92de2bd464a5d490710ae9b0425b33e4281fd3eccf520423ee071bb118539db5"
   license "MIT"
   head "https://github.com/driftive/driftive.git", branch: "main"
   
